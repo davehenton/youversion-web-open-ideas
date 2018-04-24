@@ -5,4 +5,3 @@ plugins:
     enabled: false
   eslint:
     enabled: true
-    channel: "eslint-4"
