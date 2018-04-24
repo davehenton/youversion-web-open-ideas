@@ -1,3 +1,8 @@
 plugins:
+  duplication:
+    enabled: false
+  structure:
+    enabled: false
   eslint:
     enabled: true
+    channel: "eslint-4"
